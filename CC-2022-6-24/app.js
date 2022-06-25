@@ -13,11 +13,11 @@
 // p():Function takes in and returns "Hello World"
 
 
-Function Greet(x){ 
+function greet(x){ 
 
-    let x = "Hello World"
-
-return= "Hello World"
-
+    return x 
 }
+
+greet ("Hello World")
+
 
